@@ -1,6 +1,6 @@
 # Video to GIF Converter 🎥 ➞ 🎞️
 
-A web application for converting video clips into GIFs, optimized for web preview and sharing. Ideal for creating animated thumbnails or social media posts. Built using **Flask** and **MoviePy**, users can upload videos, select settings, and download the resulting GIFs easily.
+A web application for converting video clips into GIFs, optimized for web preview and easy sharing. This tool is perfect for creating animated thumbnails or social media posts. Built using **Flask** and **MoviePy**, it allows users to upload videos, customize settings, and effortlessly download high-quality GIFs.
 
 ## Features
 
@@ -9,9 +9,9 @@ A web application for converting video clips into GIFs, optimized for web previe
 - **Customizable Settings**: Configure the number of chunks, GIF duration, frame rate, and resolution.
 - **Stop Conversion**: Option to stop the GIF creation process at any time.
 - **Responsive Design**: User-friendly interface built with Bootstrap, compatible across devices.
-- **Progress Tracking**: Progress bar to show conversion status.
-- **Efficient File Management**: Deletes temporary files after processing to save space.
-- **Optimized Results**: Offers three different GIF options for quality selection.
+- **Progress Tracking**: Displays a progress bar to indicate conversion status.
+- **Efficient File Management**: Automatically deletes temporary files after processing to save storage space.
+- **Optimized Results**: Generates three different GIF options for quality selection.
 
 ## Installation
 
@@ -100,11 +100,11 @@ video2gif/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss.
+Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
 ## Troubleshooting
 
@@ -115,15 +115,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or issues, open an issue on this repository or contact the maintainers.
+For any questions or issues, please open an issue on this repository or contact the maintainers.
 
 ## TODO
 
-- Convert GIFs to be optimized for web better.
-- Fix progress bar to be more accurate.
-- Download videos straight from YouTube.
-- Support more video formats (e.g., WebM, FLV).
-- Improve mobile experience for a better user interface.
+- Optimize GIFs for better web performance.
+- Improve progress bar accuracy.
+- Add functionality to download videos directly from YouTube.
+- Support additional video formats (e.g., WebM, FLV).
+- Enhance mobile user experience.
+- Avoid black screens in generated GIFs.
 
-Enjoy creating GIFs! 🎉 Experiment and explore related tools to expand your creative possibilities. Happy GIF making! 🚀
+Enjoy creating GIFs! 🎉 Experiment with related tools to expand your creative possibilities. Happy GIF making! 🚀
 
