@@ -1,0 +1,6 @@
+Flask==2.3.2
+moviepy==1.0.3
+imageio==2.31.1
+flask-bootstrap==3.3.7.1
+Pillow==9.5.0
+Werkzeug==2.3.6
