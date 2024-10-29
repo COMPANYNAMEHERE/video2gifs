@@ -1,4 +1,4 @@
-num_chunks=4
-gif_duration=3.0
-frame_rate=15
-resolution=720p
+num_chunks=3
+gif_duration=2.0
+frame_rate=10
+resolution=480p
